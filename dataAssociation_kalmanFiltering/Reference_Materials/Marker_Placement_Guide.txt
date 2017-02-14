@@ -1,0 +1,39 @@
+LFHD	Left front head			Located approximately over the left temple
+RFHD	Right front head		Located approximately over the right temple
+LBHD	Left back head			Placed on the back of the head, roughly in a horizontal plane of the front head markers
+RBHD	Right back head			Placed on the back of the head, roughly in a horizontal plane of the front head markers
+C7		7th Cervical vertebrae	Spinous process of the 7th cervical vertebrae
+T10		10th thoracic vertebrae	Spinous Process of the 10th thoracic vertebrae
+CLAV	Clavicle				Jugular notch where the clavicles meet the sternum
+STRN	Sternum					Xiphoid process of the sternum
+RBAK	Right back				Place in the middle of the right scapula. This marker has no symmetrical marker on the left side. This asymmetry helps the autolabeling routine determine right from left on the subject.
+LSHO	Left shoulder			Placed on the acromioclavicular joint 
+LUPA	Left upper arm			Place on the upper arm between the elbow and shoulder markers. Should be placed asymmetrically with RUPA
+LELB	Left elbow				Place on lateral epicondyle approximating elbow joint axis
+LFRA	Left forearm			Place on the lower arm between the wrist and elbow markers. Should be placed asymmetrically with RFRA
+LWRA	Left wrist A			Left wrist bar thumb side
+LWRB	Left wrist B			Left wrist bar pinkie side
+LFIN	Left fingers			Actually placed on the dorsum of the hand just below the head of the second metacarpal
+RSHO	Right shoulder			Placed on the acromioclavicular joint 
+RUPA	Right upper arm			Place on the upper arm between the elbow and shoulder markers. Should be placed asymmetrically with LUPA
+RELB	Right elbow				Place on lateral epicondyle approximating elbow joint axis
+RFRA	Right forearm			Place on the lower arm between the wrist and elbow markers. Should be placed asymmetrically with LFRA
+RWRA	Right wrist A			Right wrist bar thumb side
+RWRB	Right wrist B			Right wrist bar pinkie side
+RFIN	Right fingers			Actually placed on the dorsum of the hand just below the head of the second metacarpal
+LASI	Left anterior spine 	Place directly over the left anterior superior iliac spine (front)
+RASI	Right anterior spine	Place directly over the right anterior superior iliac spine (front)
+LPSI	Left posterior spine	Place directly over the left posterior superior iliac spine (back)
+RPSI	Right posterior spine	Place directly over the right posterior superior iliac spine back)
+LTHI	Left thigh				Place the marker over the lower lateral 1/3rd surface of the thigh, just below the swing of the hand, although the height is not critical.
+LKNE	Left knee				Place on the lateral epicondyle of the left knee
+LTIB	Left tibial 			Similar to the thigh markers, these are placed over the lower 1/3rd of the shank to determine the alignment of the ankle flexion axis
+LANK	Left ankle				Place on the lateral malleolus along an imaginary line that passes through the transmalleolar axis
+LHEE	Left heel				Place on the calcaneus at the same height above the plantar surface of the foot as the toe marker
+LTOE	Left toe				Place over the second metatarsal head, on the mid-foot side of the equinus break between forefoot and mid-foot
+RTHI	Right thigh				Place the marker over the lower lateral 1/3rd surface of the thigh, just below the swing of the hand, although the height is not critical.
+RKNE	Right knee				Place on the lateral epicondyle of the left knee
+RTIB	Right tibial 			Similar to the thigh markers, these are placed over the lower 1/3rd of the shank to determine the alignment of the ankle flexion axis
+RANK	Right ankle				Place on the lateral malleolus along an imaginary line that passes through the transmalleolar axis
+RHEE	Right heel				Place on the calcaneus at the same height above the plantar surface of the foot as the toe marker
+RTOE	Right toe				Place over the second metatarsal head, on the mid-foot side of the equinus break between forefoot and mid-foot

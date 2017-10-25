@@ -1,0 +1,1 @@
+- implementing the Dolly Zoom effect, used in films to create the feeling of vertigo, or "falling away from oneself". 

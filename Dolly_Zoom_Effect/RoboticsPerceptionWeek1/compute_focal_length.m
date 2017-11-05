@@ -15,6 +15,5 @@ function [ f ] = compute_focal_length( d_ref, f_ref, pos )
 % in pos, i.e., f(i) is the focal length for Dolly Zoom effect when the camera is placed at pos(i)
 
 % YOUR CODE HERE
-
+f = f_ref * (1 - pos / d_ref);
 end
-
